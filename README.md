@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muskan Fatima</h1>
-<h3 align="center">a dedicated and enthusiastic developer currently pursuing my BS in Computer Science from COMSATS Islamabad. As a 7th-semester student, I'm continuously honing my skills and exploring new technologies to become a versatile tech professional. I plan to graduate in 2025, InshaAllah, and aspire to build impactful and innovative solutions in the tech world.</h3>
+<h3 align="center">A dedicated and enthusiastic developer, graduated with a Bachelor's degree in Computer Science from COMSATS Islamabad with an excellent CGPA. I am passionate about continuously honing my skills, exploring new technologies, and building impactful and innovative solutions in the tech world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan-fatima97&label=Profile%20views&color=0e75b6&style=flat" alt="muskan-fatima97" /> </p>
 
