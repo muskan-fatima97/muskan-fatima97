@@ -3,15 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan-fatima97&label=Profile%20views&color=0e75b6&style=flat" alt="muskan-fatima97" /> </p>
 
-- 🔭 I’m currently working on **"Customised Hostel Management System" (React.js admin panel, Firebase real-time database)**
 
-- 🌱 I’m currently learning **Python data manipulation with Pandas - Advanced React.js concepts - Node js**
-
-- 👯 I’m looking to collaborate on **Web development projects,Mobile app development**
-
-- 💬 Ask me about **Frontend development Mobile app development**
-
-- 📫 How to reach me **muskanfatima26094122@gmail.com**
+- 👯 I’m open to collaborating on **Web development projects and Mobile app development**
+- 💬 Ask me about **Frontend development and Mobile app development**
+- 📫 How to reach me: **muskanfatima26094122@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
