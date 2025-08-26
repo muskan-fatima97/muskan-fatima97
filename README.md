@@ -86,11 +86,6 @@
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://pandas.pydata.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-        </a>
-      </td>
-      <td align="center" width="96">
         <a href="https://www.php.net" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
         </a>
