@@ -109,5 +109,12 @@
       </td>
     </tr>
   </table>
+  
 </div>
+<!-- GitHub Stats -->
+![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskan-fatima97&show_icons=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-fatima97&layout=compact)
+
 
