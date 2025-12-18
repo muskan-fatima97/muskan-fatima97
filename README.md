@@ -64,16 +64,16 @@ I am passionate about continuously honing my skills, exploring new technologies,
 <h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskan-fatima97&show_icons=true&theme=default"
-       height="180" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=muskan-fatima97&show_icons=true&theme=default"
+       height="180" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-fatima97&layout=compact"
        height="180" />
 </p>
 
 ---
 
-<h3 align="center">GitHub Streak</h3>
+<!-- <h3 align="center">GitHub Streak</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=muskan-fatima97" />
-</p>
+</p> -->
