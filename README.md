@@ -11,8 +11,8 @@ I am passionate about continuously honing my skills, exploring new technologies,
 
 ---
 
-- 👯 I’m open to collaborating on <b>Web development projects and Mobile app development</b>  
-- 💬 Ask me about <b>Frontend development and Mobile app development</b>  
+- 👯 I’m open to collaborating on <b>Web development projects</b>  
+- 💬 Ask me about <b>Frontend development </b>  
 - 📫 How to reach me: <b>muskanfatima26094122@gmail.com</b>
 
 ---
