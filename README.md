@@ -12,7 +12,7 @@ I am passionate about continuously honing my skills, exploring new technologies,
 ---
 
 - 👯 I’m open to collaborating on <b>Web development projects</b>  
-- 💬 Ask me about <b>Frontend development </b>  
+- 💬 Ask me about <b>Web development </b>  
 - 📫 How to reach me: <b>muskanfatima.dev@gmail.com</b>
 
 ---
